@@ -8,20 +8,25 @@ For example, ....
 
 ## User Stories
 
-### First Time Visitor Goals
-* As a First Time Visitor, I want to 
-* As a First Time Visitor, I want to 
-* As a First Time Visitor, I want to 
+In this section, you will identify key target audiences for your site and hight their goals as user stories. Boutique Ado will have three different types of users; a store owner, a shopper and a site user. Below you will see some of their goals as user stories, keep in mind that the list of user stories for your own site will need to be more thorough.
 
-### Returning Visitor Goals
-* As a Returning Visitor, I want to
-* As a Returning Visitor, I want to
-* As a Returning Visitor, I want to  
+### Shopper Goals
+* As a shopper, I want to be able to sort a specific category of product, so that I can find the best-priced or best-rated product in a specific category, or sort the products in that category by name
+* As a shopper, I want to be able to view items in my bad to be purchased so that I can identify the total cost of my purchase and all items I will receive 
+* As a shopper, I want to be able to receive an email confirmation after checking out, so that I can keep confirmation of what I’ve purchased for my records. 
+* As a shopper, I want to be able to view a list of products, so that I can select some to purchase
 
-### Frequesnt User Goals
-* As a Frequent User, I want to
-* As a Frequent User, I want to
-* As a Frequent User, I want to
+### Store Owner Goals
+* As a store owner, I want to be able to add a product so that I can add new items to my store
+* As a store owner, I want to be able to edit/update a product so that I can change product prices, descriptions, images and other product information
+* As a store owner, I want to be able to delete a product, so that I can remove items that are no longer for sale 
+
+### Site User Goals
+* As a site user, I want to be able to easily register for an account, so that I can have a personal account and be able to view my profile
+* As a site user, I want to be able to easily login or logout, so that I can access my personal information
+* As a site user, I want to be able to easily receive an email confirmation after registering, so that I can verify that my account registration was successful
+* As a site user, I want to be able to have a personalised user profile, so that I can view my personal order history and order confirmations, and save my payment information. 
+
 
 ## Design 
 
