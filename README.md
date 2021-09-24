@@ -49,7 +49,69 @@ In this section, you should go over the different parts of your project, and des
 
 ## Existing Features
 
+* __Landing Page__
+  - The landing includes a photograph with text overlay to allow the user to see exactly what the function of the site is. 
+  - This section introduces the user to Boutique Ado with an eye catching image to grab their attention
+
+![Landing Page](images/home.JPG)
+
+* __Call To Action__
+  - This section includes a line of text and a button, the button directs the user to the Products page 
+  - The call to action is a quick way to direct the user to most important section/information of the site
+ 
+ ![CTA](images/cta.JPG)
+ 
+* __Top Navigation Bar__
+  - Featured on all three pages, the full responsive navigation bar includes links to the Home page (logo), All Products, Search function, My Account and Shooping Bag page and is identical in each page to allow for easy navigation.
+   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+
+![NAV](images/nav.JPG)
+
+* __Products__
+  - These pages showcase all of the products that are available for purchase to the shopper
+  - This allows the user to view a list of product so that they can select some to purchase
+
+![Products](images/products.JPG)
+
+* __Product Details__
+  - The user is brought to the product details page when clicking on a product from the main list 
+  - This allowed the user to view individual poduct details so that they can identify the price, description, product rating, product image and available sizes.
+
+![ProdcutDetails](images/details.JPG)
+
+* __Shopping Bag__
+  - The user is directed to this page once they add a specific product to their shopping bag 
+  - The shopping bag allows the user to view the items in their bag to be purchased, as well ass adjust the quantity of individual items in their bag so that they can make changes to their purchase before checkout
+ 
+![ShoppingBag](images/shopping_bag.JPG)
+
+* __Sign In__
+  - This page consists of a form that allow a user to easily login so that they can access their personal information. 
+  - The user can also recover their password in case they forget it in order to recover access to their account. 
+
+![SignIn](images/sign_in.JPG)
+
+* __Sign Up__
+  - The sign up page contains a form that allows a user to eaily register for an account so that they can have a personal account and be able to view their profile
+  - The user will receive an email confirmation after registering, so that they can verify that their account registration was successful
+
+
+![SignUp](images/sign_up.JPG)
+
+* __Checkout__
+  - The checkout page is one of the last pages users are directed to when making a purchase, this is where their personal information is collected. 
+  - The user is able to easily enter their payment information, so that they can checkout quickly with no hassles. 
+  - The user will receive an email confirmation after checking out, so that they can keep the confirmation of what they have purchase for their records. 
+
+![Checkout](images/checkout.JPG)
+
+For some/all of your features, you may choose to reference the specific project files that implement them.
+
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
 ## Features Left to Implement
+
+- Another feature idea
 
 # Database 
 Description of the Data Schema used 
@@ -64,9 +126,19 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Validator Testing
 
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
 ## Manual Testing
 
 ## Automated Testing
+
+## Unfixed Bugs
+
+
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 # Deployment
 This section should describe the process you went through to deploy the project to a hosting platform
@@ -89,4 +161,21 @@ You can break the credits section up into Content and Media, depending on what y
 ## Media
 * The photos used on the home and sign up page are from This Open Source site
 * The images used for the gallery page were taken from this other open-source site
+
+# Other General Project Advice
+
+Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
+
+- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
+  - Make sure to keep the messages in the imperative mood 
+
+- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
+  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
+
+- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
+  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
+  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
+  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
+
+Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
 
