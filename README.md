@@ -2,9 +2,12 @@
 
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
 
+## E-commerce Business Model 
+Identify B2B, B2C - which type of e-comm business they are 
+
 For example, ....
 
-# User Experience (UX)
+# User Experience (UX) Map with an agile tool
 
 ## User Stories
 
@@ -28,7 +31,39 @@ In this section, you will identify key target audiences for your site and hight 
 * As a site user, I want to be able to have a personalised user profile, so that I can view my personal order history and order confirmations, and save my payment information. 
 
 
-## Design 
+
+## Marketing Strategy 
+
+Double check marketing videos, identify which type of e-commerce business you are and cherry pick which strategies would be best suited to your business. 
+
+eg: I am B2C, my customer is XX, they will be on FB for now. Furture strategy will be YYY 
+
+### Facebook Page 
+
+(screenshots of FB page) Include link to FB if possible
+
+Distinction - detail what other applicable way of marketing their business (eg: Twitter, Instagram, Linkdein, TikTok) 
+
+
+
+## SEO Implementatiom 
+
+I've generated a sitemap and robots.txt to improve likeness with Google 
+
+### Keywords
+Identify a few relevant keyword (Pass)
+Merit - at least 10 keywords and include why they chose them 
+Distinction - why, which words they chose them, the reach the certain keywords have, niche market. Proof of extra research and write on the rationale behind the keywords. 
+
+### Keyword Implementation 
+Content
+Meta tags 
+
+
+
+
+
+## Design (remove the design section) 
 
 * __Colour Scheme__
   * The two main colours user are black and white
